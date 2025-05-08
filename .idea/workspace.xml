@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbbf0652-1f1a-4c55-8ef8-0d5fe69f5852" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/matrixprocessing/matrixprocessing.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/task1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2wN61w91yXV7WYkUUHyTdm3XJqF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Python Console.executor": "Run",
+    "Python.chatbot.executor": "Run",
+    "Python.coffeemachine.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.matrixprocessing.executor": "Run",
+    "Python.pencils_game.executor": "Run",
+    "Python.zoo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/matrixprocessing",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbbf0652-1f1a-4c55-8ef8-0d5fe69f5852" name="Changes" comment="" />
+      <created>1745869472788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745869472788</updated>
+      <workItem from="1745869473847" duration="726000" />
+      <workItem from="1745870654987" duration="342000" />
+      <workItem from="1746110572885" duration="4574000" />
+      <workItem from="1746116428918" duration="2158000" />
+      <workItem from="1746382379223" duration="4220000" />
+      <workItem from="1746726202846" duration="19000" />
+      <workItem from="1746726246609" duration="1080000" />
+      <workItem from="1746727393529" duration="1058000" />
+      <workItem from="1746728741445" duration="12000" />
+      <workItem from="1746728821789" duration="4830000" />
+      <workItem from="1746733919670" duration="21000" />
+      <workItem from="1746733951274" duration="2086000" />
+      <workItem from="1746821913076" duration="749000" />
+      <workItem from="1746822678164" duration="1228000" />
+      <workItem from="1746823929244" duration="317000" />
+      <workItem from="1746824304829" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chatbot_py$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1746117679883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChatBot" />
+    <SUITE FILE_PATH="coverage/PythonProject2$main.coverage" NAME="main Coverage Results" MODIFIED="1745869529801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chatbot_py$pencils_game.coverage" NAME="pencils_game Coverage Results" MODIFIED="1746727568710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pencils_game" />
+    <SUITE FILE_PATH="coverage/PythonProject2$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1746734603936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/coffeemachine_py$coffeemachine.coverage" NAME="coffeemachine Coverage Results" MODIFIED="1746729303443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coffeemachine" />
+    <SUITE FILE_PATH="coverage/matrixprocessing_py$matrixprocessing.coverage" NAME="matrixprocessing Coverage Results" MODIFIED="1746823678950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matrixprocessing" />
+    <SUITE FILE_PATH="coverage/chatbot_py$zoo.coverage" NAME="zoo Coverage Results" MODIFIED="1746727548345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zoo" />
+  </component>
+</project>
